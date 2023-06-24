@@ -1,22 +1,22 @@
-<h1 align="center">Hi Dude⚠️, I'm Aimgod</h1>
+<h1 align="center">Hi dude 👋, I'm Aimgod</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <image align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimgod333&label=Profile%20views&color=0e75b6&style=flat" alt="aimgod333" /> </p>
 
-- ðŸ”­ Iâ€™m currently working on **Welfare community**
+- 🔭 I’m currently working on **Welfare community**
 
-- ðŸŒ± Iâ€™m currently learning **Online business skill**
+- 🌱 I’m currently learning **Online business skill**
 
-- ðŸ‘¯ Iâ€™m looking to collaborate on [Abuser Aimgod](https://t.me/aimgodpapa)
+- 👯 I’m looking to collaborate on [Abuser Aimgod](https://t.me/aimgodpapa)
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [@krish_hackerx_bot](@krish_hackerx_bot)
+- 👨‍💻 All of my projects are available at [@krish_hackerx_bot](@krish_hackerx_bot)
 
-- ðŸ“« How to reach me **promotion3254245@gmail.com**
+- 📫 How to reach me **promotion3254245@gmail.com**
 
-- ðŸ“„ Know about my experiences [https://t.me/aimgodpapa](https://t.me/aimgodpapa)
+- 📄 Know about my experiences [https://t.me/aimgodpapa](https://t.me/aimgodpapa)
 
-- âš¡ Fun fact **I am Lazy**
+- ⚡ Fun fact **I am Lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
